@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tarall0
-- 👀 I’m interested in web developement & co
+- 👀 I’m interested in cannabis, web dev and stuff lol
 - 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on cool stuff
+- 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me www.taralloo.it
 
 <!---
