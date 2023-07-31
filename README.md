@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Jabot a JDA Bot
-🌱 I’m constantly learning new things
+- 🔭 I’m currently working on Jabot a JDA Bot
+- 🌱 I’m constantly learning new things
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarall0)](https://github.com/Tarall0/github-readme-stats)
 
