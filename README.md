@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m constantly learning new things
+- 🔭 I’m currently learning C
+- - 🌱 I’m constantly looking for inputs for learning new things
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarall0)](https://github.com/Tarall0/github-readme-stats)
 
