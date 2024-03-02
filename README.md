@@ -4,16 +4,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Tarall0/count.svg?"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Tarall0/Tarall0/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
